@@ -1,6 +1,6 @@
 # Energy Systems Modelling and Macroeconomic Analysis
 
-This repository contains academic projects, quantitative analyses, and structural modeling frameworks developed for the graduate course **Energy Systems Modelling** at Sharif University of Technology (under Dr. Hossein Khajepour).
+This repository contains academic projects, quantitative analyses, and structural modeling frameworks developed for the graduate course **Energy Systems Modelling** at Sharif University of Technology (under Dr. Hossein Khajepour & Dr. Moein Moeini).
 
 ## Core Course Focus
 The curriculum explores the comprehensive integration and dynamic feedbacks between the **Supply Side** and **Demand Side** within macro-energy systems, establishing market clearance and policy impacts.
